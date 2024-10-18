@@ -17,7 +17,7 @@ Extract the files into your local server’s document root directory (htdocs for
 Create a new MySQL database via phpMyAdmin (e.g., wp_local).
 
 3. Install and Set Up WordPress
-Open your browser and go to http://localhost/your-folder-startwebsite to set up WordPress.
+Open your browser and go to http://localhost/startwebsite to set up WordPress.
 Follow the WordPress installation wizard.
 Use the database name you created in the previous step and complete the setup.
 
@@ -33,5 +33,5 @@ Choose the .wpress backup file you created and wait for the import process to co
 Once the import finishes, it will prompt you to save the permalinks by going to Settings > Permalinks and clicking Save Changes.
 
 9. Access Your Local WordPress Site
-Once the import is complete, you should be able to access your locally restored WordPress site by navigating to http://localhost/your-folder-startwebsite.
+Once the import is complete, you should be able to access your locally restored WordPress site by navigating to http://localhost/startwebsite
 
