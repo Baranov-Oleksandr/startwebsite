@@ -11,7 +11,6 @@ Start the Apache and MySQL services.
 
  2. Download WordPress
 You need a fresh WordPress installation on your local server.
-
 Download the latest WordPress from WordPress.org.
 Extract the files into your local server’s document root directory (htdocs for XAMPP, Sites for MAMP).
 Create a new MySQL database via phpMyAdmin (e.g., wp_local).
